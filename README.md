@@ -1,7 +1,7 @@
 # Convert HTML to PDF
 Install html-to-pdf
 ```sh
-npm install -g html-to-pdf
+npm install -g puppeteer-html-to-pdf
 ```
 Convert HTML to PDF
 ```sh
