@@ -1,14 +1,14 @@
 {
   "name": "html-to-pdf",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Convert HTML to PDF",
+  "main": "script.js",
   "scripts": {
     "start": "node script.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Mika Dede <xervondev@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "puppeteer": "^1.11.0"
   },
