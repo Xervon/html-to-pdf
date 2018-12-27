@@ -1,9 +1,9 @@
 # Convert HTML to PDF
 Install html-to-pdf
-```console
+```sh
 npm install -g html-to-pdf
 ```
 Convert HTML to PDF
-```console
+```sh
 html-to-pdf < $HTML_FILE > $PDF_FILE
 ```
